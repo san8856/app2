@@ -9,6 +9,6 @@ public class MainController {
 	@GetMapping("/")
 	@ResponseBody
 	public String main() {
-		return "app2 main";
+		return "app2 main - kim dasan";
 	}
 }
